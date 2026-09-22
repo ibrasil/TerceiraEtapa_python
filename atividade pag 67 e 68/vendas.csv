@@ -1,0 +1,201 @@
+data,loja,regiao,produto,categoria,quantidade,preco_unitario
+2023-11-07,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiro,1.0,4608.318382632475
+2023-02-03,Loja do Gui,Padre Eustaquio,Sorvete,Doces Frios,9.0,352.33590128157556
+2023-04-01,Loja da Isabela,Lourdes,Pipoca Doce,Pizza,1.0,1420.5443583286585
+2023-07-02,Loja do Hugo,Ouro Preto,Pizza Doce,Doces Caseiro,5.0,4040.6963349756534
+2023-04-04,Loja do Hugo,Padre Eustaquio,Pizza Doce,Doces Caseiro,4.0,3753.885467399109
+2023-08-11,Loja do Gui,Ouro Preto,Sorvete,Pizza,,963.3790458140678
+2023-07-01,Loja da Isabela,Padre Eustaquio,Pipoca Doce,Doces Frios,,1086.279150516716
+2023-09-01,Loja da Isabela,Padre Eustaquio,Sorvete,Doces Frios,,1883.8369088173408
+2023-08-30,Loja do Hugo,Sion,Pipoca Doce,Doces Caseiro,,2448.3887766955554
+2023-03-09,Loja do Francisco,Ouro Preto,Chocolate,Pizza,,3110.361119074965
+2023-10-15,Loja do Hugo,Lourdes,Açaí,Doces Frios,,1876.1225158703735
+2023-07-22,Loja do Hugo,Lourdes,Açaí,Pizza,13.0,2339.5468448590823
+2023-11-25,Loja do Hugo,Ouro Preto,Açaí,Pizza,6.0,3749.9811437620947
+2023-08-25,Loja do Hugo,Lourdes,Sorvete,Doces Caseiro,2.0,231.5818543084596
+2023-10-02,Loja do Gui,Lourdes,Chocolate,Doces Frios,3.0,1299.5628745029028
+2023-01-01,Loja da Isabela,Ouro Preto,Pipoca Doce,Doces Caseiro,5.0,3581.0804501285347
+2023-04-05,Loja do Gui,Padre Eustaquio,Pizza Doce,Doces Frios,9.0,4481.273846551637
+2023-10-13,Loja do Gui,Ouro Preto,Pipoca Doce,Doces Frios,2.0,2582.8033384725472
+2023-07-28,Loja do Gui,Padre Eustaquio,Pizza Doce,Doces Frios,10.0,2683.9617520633124
+2023-12-03,Loja do Hugo,Lourdes,Pipoca Doce,Doces Frios,8.0,580.5014561318915
+2023-04-08,Loja do Francisco,Lourdes,Chocolate,Doces Frios,14.0,
+2023-08-03,Loja da Isabela,Lourdes,Pizza Doce,Pizza,2.0,
+2023-10-04,Loja do Francisco,Sion,Sorvete,Doces Caseiro,11.0,
+2023-03-20,Loja do Gui,Padre Eustaquio,Pipoca Doce,Pizza,13.0,
+2023-08-23,Loja do Gui,Sion,Pipoca Doce,Doces Frios,5.0,
+2023-06-21,Loja do Francisco,Sion,Pizza Doce,Doces Caseiro,7.0,
+2023-03-17,Loja do Francisco,Ouro Preto,Sorvete,Doces Frios,8.0,1644.2918696367326
+2023-12-26,Loja do Francisco,Sion,Sorvete,Doces Caseiro,1.0,1096.667634632896
+2023-04-20,Loja do Gui,Ouro Preto,Chocolate,Pizza,6.0,1671.1118932806776
+2023-11-27,Loja do Gui,Ouro Preto,Sorvete,Doces Caseiro,1.0,642.8225525052935
+2023-07-29,Loja da Isabela,Sion,Sorvete,Doces Caseiro,2.0,4458.11003966248
+2023-03-16,Loja da Isabela,Padre Eustaquio,Sorvete,Doces Caseiro,1.0,2988.282645092541
+2023-12-17,Loja do Gui,Padre Eustaquio,Açaí,Doces Caseiro,11.0,3411.5564797652237
+2023-07-22,Loja do Francisco,Padre Eustaquio,Chocolate,Doces Caseiro,5.0,3956.3976311063248
+2023-12-27,Loja do Francisco,Padre Eustaquio,Pipoca Doce,Doces Frios,10.0,2517.2888846988335
+2023-10-20,Loja da Isabela,Padre Eustaquio,Pizza Doce,Doces Caseiro,9.0,480.25542603274727
+2023-11-30,Loja do Gui,Sion,Pipoca Doce,Doces Caseiro,6.0,2708.6773820018116
+2023-01-16,Loja da Isabela,Sion,Chocolate,Pizza,11.0,2954.8635342033517
+2023-06-17,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiro,11.0,3739.9253972124334
+2023-09-30,Loja do Hugo,Padre Eustaquio,Chocolate,Pizza,1.0,2186.714753836913
+2023-06-10,Loja do Hugo,Sion,Sorvete,Doces Frios,13.0,681.5224988380406
+2023-08-22,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiro,1.0,1454.6907337036862
+2023-05-11,Loja do Francisco,Padre Eustaquio,Sorvete,Pizza,2.0,1847.2573671732437
+2023-04-18,Loja do Gui,Ouro Preto,Pipoca Doce,Pizza,9.0,3247.290344591426
+2023-07-29,Loja do Gui,Lourdes,Pipoca Doce,Doces Frios,3.0,2875.352608111114
+2023-01-29,Loja do Gui,Sion,Pizza Doce,Doces Caseiro,1.0,1812.6787931943388
+2023-05-24,Loja do Gui,Ouro Preto,Pizza Doce,Doces Caseiro,5.0,4933.25048152525
+2023-01-03,Loja do Hugo,Ouro Preto,Chocolate,Pizza,7.0,3048.5853558165913
+2023-04-06,Loja do Francisco,Ouro Preto,Chocolate,Doces Caseiro,6.0,1224.2726190931726
+2023-05-28,Loja do Francisco,Lourdes,Sorvete,Pizza,12.0,553.8232394709985
+2023-07-05,Loja do Hugo,Sion,Pizza Doce,Doces Caseiro,1.0,806.6527389624436
+2023-09-21,Loja do Francisco,Ouro Preto,Pipoca Doce,Pizza,5.0,1267.4907555033153
+2023-12-28,Loja do Hugo,Padre Eustaquio,Chocolate,Doces Caseiro,5.0,845.3727976348006
+2023-06-09,Loja do Gui,Ouro Preto,Chocolate,Doces Frios,6.0,973.5067690539636
+2023-05-14,Loja do Hugo,Ouro Preto,Pipoca Doce,Doces Caseiro,3.0,1461.2210850345432
+2023-02-03,Loja do Gui,Lourdes,Chocolate,Doces Caseiro,5.0,908.1992967090364
+2023-04-02,Loja do Gui,Lourdes,Sorvete,Doces Frios,7.0,4488.988851900805
+2023-04-01,Loja da Isabela,Sion,Pizza Doce,Doces Caseiro,5.0,447.15704102512893
+2023-04-28,Loja do Hugo,Padre Eustaquio,Pipoca Doce,Doces Frios,5.0,2646.331378372761
+2023-06-28,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiro,5.0,2081.4642935988245
+2023-04-03,Loja do Hugo,Ouro Preto,Chocolate,Pizza,10.0,4912.774153697602
+2023-10-21,Loja do Hugo,Sion,Chocolate,Pizza,10.0,604.5925657318592
+2023-12-28,Loja da Isabela,Ouro Preto,Pipoca Doce,Doces Caseiro,3.0,2019.3852152764211
+2023-11-09,Loja da Isabela,Ouro Preto,Sorvete,Doces Caseiro,1.0,4848.878644713076
+2023-03-26,Loja do Hugo,Lourdes,Açaí,Doces Caseiro,5.0,4334.260273175202
+2023-02-11,Loja do Francisco,Sion,Pipoca Doce,Pizza,14.0,4094.5067511989355
+2023-08-02,Loja do Gui,Padre Eustaquio,Açaí,Doces Caseiro,9.0,1326.6189938724522
+2023-10-12,Loja da Isabela,Padre Eustaquio,Açaí,Pizza,14.0,895.8935575808258
+2023-02-18,Loja do Gui,Lourdes,Sorvete,Doces Frios,1.0,3359.7839386259334
+2023-07-23,Loja do Francisco,Lourdes,Açaí,Pizza,3.0,4650.41114618155
+2023-08-30,Loja do Francisco,Sion,Açaí,Pizza,13.0,2805.9763204189526
+2023-01-16,Loja do Francisco,Padre Eustaquio,Sorvete,Doces Frios,13.0,2879.482812876004
+2023-05-06,Loja da Isabela,Padre Eustaquio,Açaí,Pizza,4.0,1435.8965136184067
+2023-07-09,Loja do Francisco,Padre Eustaquio,Açaí,Doces Caseiro,14.0,3858.9900193000876
+2023-07-14,Loja da Isabela,Ouro Preto,Açaí,Doces Caseiro,1.0,975.8665553597407
+2023-06-27,Loja do Francisco,Padre Eustaquio,Pipoca Doce,Pizza,1.0,1652.2122202010062
+2023-05-16,Loja do Gui,Ouro Preto,Pipoca Doce,Doces Caseiro,8.0,2155.910371151263
+2023-02-12,Loja do Gui,Sion,Pipoca Doce,Pizza,2.0,2562.671374488052
+2023-11-17,Loja do Hugo,Ouro Preto,Sorvete,Doces Caseiro,12.0,1249.928175454647
+2023-06-27,Loja do Gui,Sion,Chocolate,Doces Caseiro,8.0,618.4422824590575
+2023-07-27,Loja do Hugo,Padre Eustaquio,Açaí,Pizza,7.0,3072.5692100860815
+2023-06-20,Loja do Gui,Padre Eustaquio,Açaí,Doces Caseiro,10.0,1478.721238539266
+2023-10-12,Loja da Isabela,Sion,Sorvete,Pizza,10.0,2927.1291960419308
+2023-06-01,Loja do Gui,Lourdes,Açaí,Doces Caseiro,2.0,814.0954406073014
+2023-08-30,Loja do Hugo,Sion,Pipoca Doce,Doces Caseiro,6.0,2431.6435041813465
+2023-10-02,Loja do Hugo,Lourdes,Chocolate,Doces Frios,6.0,2686.31769113035
+2023-01-03,Loja do Francisco,Ouro Preto,Pizza Doce,Doces Frios,3.0,306.5265072710132
+2023-05-25,Loja da Isabela,Ouro Preto,Açaí,Pizza,11.0,1716.191177059907
+2023-07-04,Loja do Gui,Ouro Preto,Pipoca Doce,Doces Frios,2.0,715.3526508479225
+2023-07-20,Loja do Francisco,Padre Eustaquio,Pizza Doce,Pizza,12.0,363.70610384020034
+2023-04-18,Loja do Gui,Ouro Preto,Chocolate,Doces Frios,1.0,4950.303150330229
+2023-05-29,Loja do Gui,Lourdes,Pizza Doce,Doces Caseiro,6.0,1645.6515326248787
+2023-06-11,Loja do Francisco,Ouro Preto,Pipoca Doce,Pizza,12.0,4058.8785069804426
+2023-06-27,Loja do Francisco,Sion,Pizza Doce,Pizza,5.0,1310.471241080631
+2023-02-26,Loja do Francisco,Sion,Sorvete,Doces Caseiro,14.0,3423.43847500845
+2023-02-26,Loja do Francisco,Padre Eustaquio,Pizza Doce,Pizza,14.0,3813.1279064539485
+2023-03-04,Loja do Francisco,Sion,Açaí,Pizza,11.0,2998.411766008829
+2023-09-16,Loja do Gui,Lourdes,Açaí,Doces Frios,9.0,2384.302133323284
+2023-10-27,Loja do Francisco,Ouro Preto,Sorvete,Pizza,1.0,2088.6125250289792
+2023-08-06,Loja da Isabela,Padre Eustaquio,Pipoca Doce,Doces Caseiro,7.0,1776.8979193878267
+2023-12-11,Loja do Hugo,Ouro Preto,Açaí,Doces Frios,5.0,4651.169264026738
+2023-05-21,Loja do Francisco,Ouro Preto,Chocolate,Doces Frios,5.0,4161.566068549259
+2023-10-20,Loja do Francisco,Lourdes,Açaí,Doces Caseiro,14.0,4826.883207799237
+2023-08-23,Loja do Gui,Sion,Açaí,Doces Caseiro,2.0,665.2712562534464
+2023-04-13,Loja do Francisco,Sion,Pipoca Doce,Doces Frios,11.0,3667.794002258039
+2023-05-23,Loja do Francisco,Ouro Preto,Pizza Doce,Pizza,3.0,4694.785261264137
+2023-07-22,Loja do Francisco,Padre Eustaquio,Açaí,Doces Frios,7.0,947.1036775200178
+2023-03-29,Loja do Gui,Sion,Sorvete,Doces Caseiro,6.0,379.1565234655486
+2023-06-24,Loja do Francisco,Padre Eustaquio,Pizza Doce,Doces Frios,12.0,3718.5472139857925
+2023-10-08,Loja do Hugo,Sion,Chocolate,Doces Caseiro,2.0,2893.641910240564
+2023-01-31,Loja do Gui,Padre Eustaquio,Pipoca Doce,Doces Frios,6.0,4217.052444953447
+2023-01-27,Loja do Hugo,Lourdes,Chocolate,Pizza,2.0,741.873264300133
+2023-01-07,Loja do Gui,Padre Eustaquio,Pizza Doce,Doces Frios,2.0,3986.5731937064565
+2023-07-18,Loja do Francisco,Lourdes,Pizza Doce,Doces Frios,2.0,1048.0552342363353
+2023-11-08,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiro,14.0,860.0969171852373
+2023-05-11,Loja do Gui,Padre Eustaquio,Chocolate,Doces Caseiro,11.0,863.1156997584151
+2023-05-10,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiro,3.0,4082.1448651453416
+2023-07-13,Loja do Francisco,Ouro Preto,Chocolate,Doces Frios,2.0,3342.7262424461906
+2023-05-03,Loja do Gui,Lourdes,Pizza Doce,Pizza,4.0,2639.173852607141
+2023-07-16,Loja da Isabela,Sion,Sorvete,Doces Caseiro,9.0,1826.2108964113374
+2023-01-28,Loja do Gui,Padre Eustaquio,Pizza Doce,Doces Caseiro,6.0,4392.142677024886
+2023-08-28,Loja da Isabela,Ouro Preto,Chocolate,Doces Frios,1.0,1992.603281742045
+2023-11-28,Loja do Francisco,Padre Eustaquio,Açaí,Doces Caseiro,8.0,4092.1672253843067
+2023-06-10,Loja do Hugo,Sion,Pizza Doce,Pizza,12.0,2223.717797422581
+2023-02-15,Loja da Isabela,Sion,Açaí,Pizza,14.0,1915.8749256532926
+2023-12-09,Loja do Gui,Sion,Sorvete,Doces Caseiro,7.0,2340.264939064552
+2023-06-11,Loja do Francisco,Lourdes,Pipoca Doce,Doces Caseiro,10.0,1541.8204771125033
+2023-07-30,Loja da Isabela,Lourdes,Sorvete,Doces Frios,3.0,3750.666431872443
+2023-08-30,Loja do Gui,Padre Eustaquio,Pizza Doce,Pizza,1.0,2538.465930957772
+2023-03-28,Loja do Gui,Padre Eustaquio,Açaí,Pizza,5.0,1199.4528409767456
+2023-02-14,Loja do Gui,Ouro Preto,Açaí,Doces Caseiro,13.0,4502.894137709114
+2023-05-29,Loja da Isabela,Ouro Preto,Chocolate,Doces Frios,4.0,1950.2615457973966
+2023-10-11,Loja da Isabela,Padre Eustaquio,Açaí,Pizza,10.0,2740.5866625142435
+2023-04-09,Loja da Isabela,Lourdes,Chocolate,Pizza,8.0,4537.036949274508
+2024-01-01,Loja do Hugo,Sion,Pipoca Doce,Doces Frios,1.0,3139.978079774261
+2023-05-20,Loja da Isabela,Padre Eustaquio,Pizza Doce,Doces Frios,10.0,628.6453015064021
+2023-11-16,Loja da Isabela,Ouro Preto,Chocolate,Pizza,1.0,4702.169011886702
+2023-09-08,Loja da Isabela,Lourdes,Pipoca Doce,Pizza,12.0,3157.1548627035186
+2023-09-16,Loja do Hugo,Padre Eustaquio,Açaí,Doces Frios,4.0,1707.7827925525762
+2023-10-21,Loja da Isabela,Padre Eustaquio,Açaí,Pizza,8.0,739.396759683767
+2023-03-18,Loja do Gui,Lourdes,Pipoca Doce,Doces Caseiro,5.0,3980.424686887965
+2023-02-20,Loja da Isabela,Padre Eustaquio,Açaí,Doces Caseiro,2.0,3119.360141846142
+2023-05-06,Loja do Gui,Lourdes,Pipoca Doce,Doces Frios,6.0,2690.6324052827918
+2023-01-28,Loja do Gui,Sion,Chocolate,Doces Frios,5.0,4474.76828610224
+2023-01-03,Loja do Gui,Lourdes,Chocolate,Doces Frios,2.0,3953.556195561427
+2023-11-13,Loja do Hugo,Lourdes,Pipoca Doce,Doces Caseiro,13.0,800.7906546771184
+2023-11-30,Loja do Hugo,Lourdes,Chocolate,Pizza,14.0,1593.0242355879636
+2023-04-23,Loja do Hugo,Padre Eustaquio,Chocolate,Doces Caseiro,11.0,1280.0212420816054
+2023-04-08,Loja da Isabela,Padre Eustaquio,Chocolate,Pizza,11.0,3732.5341482347512
+2023-12-23,Loja do Gui,Lourdes,Sorvete,Doces Caseiro,11.0,215.98555194210795
+2023-09-05,Loja do Hugo,Padre Eustaquio,Pizza Doce,Pizza,3.0,2870.953940113017
+2023-06-13,Loja do Hugo,Ouro Preto,Açaí,Doces Caseiro,9.0,3824.170494416418
+2023-07-24,Loja da Isabela,Ouro Preto,Sorvete,Doces Frios,7.0,4389.98990197066
+2023-12-26,Loja do Hugo,Padre Eustaquio,Chocolate,Doces Caseiro,7.0,1743.304656143742
+2023-07-17,Loja da Isabela,Padre Eustaquio,Pipoca Doce,Pizza,11.0,4115.223658126464
+2023-07-26,Loja do Francisco,Lourdes,Chocolate,Doces Caseiro,6.0,597.6270979282758
+2023-09-17,Loja do Hugo,Sion,Pizza Doce,Doces Caseiro,8.0,4239.938844085865
+2023-01-19,Loja do Francisco,Padre Eustaquio,Chocolate,Doces Caseiro,4.0,681.068878543313
+2023-02-20,Loja da Isabela,Ouro Preto,Pipoca Doce,Doces Frios,8.0,2016.572088273818
+2023-08-30,Loja do Gui,Lourdes,Pizza Doce,Doces Caseiro,4.0,3996.61206060879
+2023-03-20,Loja do Hugo,Padre Eustaquio,Chocolate,Doces Frios,8.0,792.0912653764302
+2023-01-26,Loja da Isabela,Ouro Preto,Pizza Doce,Doces Frios,9.0,1184.7944064015753
+2023-10-07,Loja do Gui,Ouro Preto,Açaí,Doces Caseiro,3.0,3625.150213545678
+2023-02-14,Loja do Gui,Sion,Açaí,Doces Caseiro,3.0,3614.1808559030683
+2023-06-25,Loja do Francisco,Lourdes,Chocolate,Doces Caseiro,11.0,3223.6807827822217
+2023-04-17,Loja da Isabela,Lourdes,Pizza Doce,Pizza,13.0,3485.044800112145
+2023-12-27,Loja do Gui,Sion,Pipoca Doce,Doces Caseiro,2.0,2736.485994570601
+2023-12-09,Loja do Hugo,Sion,Chocolate,Doces Frios,13.0,1296.4053415894161
+2023-04-28,Loja do Hugo,Lourdes,Açaí,Doces Caseiro,10.0,1761.1951678444013
+2023-03-03,Loja do Francisco,Lourdes,Açaí,Pizza,3.0,948.9086981670571
+2023-03-17,Loja do Gui,Padre Eustaquio,Chocolate,Doces Caseiro,3.0,4546.83027860146
+2023-08-22,Loja da Isabela,Padre Eustaquio,Pizza Doce,Pizza,5.0,2937.789384092296
+2023-04-02,Loja do Hugo,Sion,Açaí,Pizza,5.0,2034.2145129800174
+2023-12-23,Loja do Gui,Padre Eustaquio,Pizza Doce,Doces Caseiro,2.0,2336.928728038457
+2023-08-16,Loja do Gui,Ouro Preto,Açaí,Doces Frios,12.0,4739.052531078486
+2023-12-17,Loja do Francisco,Padre Eustaquio,Açaí,Pizza,10.0,809.089445424597
+2023-02-15,Loja do Hugo,Padre Eustaquio,Sorvete,Doces Caseiro,13.0,2951.8376684831464
+2023-02-04,Loja do Hugo,Ouro Preto,Açaí,Doces Caseiro,6.0,2554.148960478107
+2023-11-12,Loja da Isabela,Sion,Pipoca Doce,Doces Frios,5.0,3076.698465401507
+2023-08-15,Loja do Hugo,Ouro Preto,Chocolate,Pizza,6.0,139.6454099131605
+2023-01-09,Loja da Isabela,Padre Eustaquio,Chocolate,Pizza,1.0,4367.0133492735495
+2023-06-11,Loja do Hugo,Sion,Pizza Doce,Doces Caseiro,5.0,4663.985498293881
+2023-08-19,Loja do Francisco,Padre Eustaquio,Açaí,Doces Caseiro,9.0,2847.409258766584
+2023-08-21,Loja do Hugo,Ouro Preto,Pipoca Doce,Doces Frios,12.0,3498.421578190617
+2023-08-26,Loja da Isabela,Ouro Preto,Pizza Doce,Doces Frios,10.0,4616.371936827613
+2023-03-27,Loja da Isabela,Padre Eustaquio,Sorvete,Pizza,14.0,3550.831239851323
+2023-01-06,Loja do Francisco,Lourdes,Pizza Doce,Pizza,2.0,805.0682624255936
+2023-09-15,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiro,1.0,2902.6273828257254
+2023-04-26,Loja do Hugo,Ouro Preto,Açaí,Pizza,14.0,3053.239479595137
+2023-09-21,Loja do Francisco,Ouro Preto,Sorvete,Doces Frios,10.0,2149.4468229468107
+2023-04-20,Loja do Hugo,Lourdes,Pizza Doce,Doces Frios,13.0,3695.398966342378
+2023-03-01,Loja do Hugo,Lourdes,Pipoca Doce,Doces Caseiro,11.0,4675.116723106624
+2023-07-11,Loja da Isabela,Padre Eustaquio,Pipoca Doce,Doces Frios,9.0,4631.564138888542
+2023-12-30,Loja do Hugo,Padre Eustaquio,Chocolate,Doces Frios,10.0,2281.654888450454
+2023-05-21,Loja do Hugo,Lourdes,Sorvete,Doces Frios,9.0,610.5283269117385
+2023-07-21,Loja do Francisco,Padre Eustaquio,Sorvete,Doces Frios,9.0,4924.9639348635565
+2023-07-09,Loja do Francisco,Padre Eustaquio,Chocolate,Doces Caseiro,6.0,4202.545527907374
+2023-03-29,Loja do Gui,Sion,Pizza Doce,Doces Caseiro,8.0,667.0802719561709
+2023-04-01,Loja da Isabela,Padre Eustaquio,Sorvete,Pizza,14.0,4608.167318955993
+2023-02-16,Loja do Hugo,Ouro Preto,Pipoca Doce,Doces Frios,11.0,4355.986992207535
